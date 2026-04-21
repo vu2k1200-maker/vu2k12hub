@@ -251,8 +251,8 @@ local function addScriptButton(name,x,y,url)
     end)
 end
 
-addScriptButton("FlyGui",20,20,"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt")
-addScriptButton("slap duels",210,20,"https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/slap%20duels")
+addScriptButton("FlyGui",20,20,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/flyvuhub?token=GHSAT0AAAAAAD3COB3ARM5JUL236NARRRHA2PHOMUQ")
+addScriptButton("dupegem",210,20,"https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/dupegemadmin")
 addScriptButton("Godmod",210,70,"https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/Godmod")
 addScriptButton("AimbotBacon",210,120,"https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/aimbotbohub")
 addScriptButton("TpBoBaconPremium",20,70,"https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/tpbobaconpremium")
