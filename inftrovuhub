@@ -33,7 +33,7 @@ logo.AnchorPoint = Vector2.new(0.5,0.5)
 logo.Position = UDim2.new(0.5,0,0.40,0)
 logo.Size = UDim2.new(0,0,0,0)
 logo.BackgroundTransparency = 1
-logo.Text = "BOBACONHUB"
+logo.Text = "vu2k12"
 logo.Font = Enum.Font.GothamBlack
 logo.TextSize = 52
 logo.TextColor3 = Color3.new(1,1,1)
@@ -45,7 +45,7 @@ local admin = Instance.new("TextLabel", bg)
 admin.Size = UDim2.new(1,0,0.1,0)
 admin.Position = UDim2.new(0,0,0.50,0)
 admin.BackgroundTransparency = 1
-admin.Text = "ADMIN"
+admin.Text = "hub"
 admin.Font = Enum.Font.GothamBold
 admin.TextSize = 22
 admin.TextColor3 = Color3.fromRGB(235,245,255)
@@ -111,5 +111,5 @@ gui:Destroy()
 
 -- LOAD ADMIN SCRIPT
 loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/doanhvu339-ux/baconpremium/refs/heads/main/bobaconhub%20admin"
+    "https://raw.githubusercontent.com/vu2k1200-maker/vu2k12hub/refs/heads/main/vuhub?token=GHSAT0AAAAAAD3COB3BD2VQZEY3MYB2SUGQ2PHOA2Q"
 ))()
