@@ -1,7 +1,7 @@
 -- Khởi tạo settings
 if not getgenv().BaconSettings then
     getgenv().BaconSettings = {
-        SpeedToggle=false, InfJump=false, Noclip=false,
+        SpeedToggle=true, InfJump=false, Noclip=false,
         HitboxAll=false, HitboxTeam=false,
         ESPAll=false, ESPTeam=false,
         Speed=30, HitboxSize=20
@@ -253,7 +253,7 @@ end
 
 addScriptButton("FlyGui",20,20,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/flyvuhub?token=GHSAT0AAAAAAD3COB3ARM5JUL236NARRRHA2PHOMUQ")
 addScriptButton("dupegem",210,20,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/dupegemvuhub?token=GHSAT0AAAAAAD3COB3AK2ZCYMOFLJZILEVG2PHORYA")
-addScriptButton("Aimbotvuhub",210,70,"")
+addScriptButton("Aimbotvuhub",210,70,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/aimbotvuhub?token=GHSAT0AAAAAAD3COB3BMWG35OFFXEXKMYJ42PHO2CQ")
 addScriptButton("tpvuhub",210,120,"")
 addScriptButton("floatvuhub",20,70,"")
 addScriptButton("afkvuhub",20,120,"")
