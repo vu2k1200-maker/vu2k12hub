@@ -254,7 +254,7 @@ end
 addScriptButton("FlyGui",20,20,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/flyvuhub?token=GHSAT0AAAAAAD3COB3ARM5JUL236NARRRHA2PHOMUQ")
 addScriptButton("dupegem",210,20,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/dupegemvuhub?token=GHSAT0AAAAAAD3COB3AK2ZCYMOFLJZILEVG2PHORYA")
 addScriptButton("Aimbotvuhub",210,70,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/aimbotvuhub?token=GHSAT0AAAAAAD3COB3BMWG35OFFXEXKMYJ42PHO2CQ")
-addScriptButton("tpvuhub",210,120,"")
+addScriptButton("tpvuhub",210,120,"https://raw.githubusercontent.com/vu2k1200-maker/script-vuhub/refs/heads/main/tpvuhub?token=GHSAT0AAAAAAD3COB3BTDCFHWCWRGFH7RX62PITD4A")
 addScriptButton("floatvuhub",20,70,"")
 addScriptButton("afkvuhub",20,120,"")
 addScriptButton("adminhub",20,170,"")
