@@ -111,5 +111,5 @@ gui:Destroy()
 
 -- LOAD ADMIN SCRIPT
 loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/vu2k1200-maker/vu2k12hub/refs/heads/main/vuhub?token=GHSAT0AAAAAAD3COB3BD2VQZEY3MYB2SUGQ2PHOA2Q"
+    "https://raw.githubusercontent.com/vu2k1200-maker/vu2k12hub/refs/heads/main/vuhub?token=GHSAT0AAAAAAD3COB3BFED2TUVUZA5Y5EXK2PITFGA"
 ))()
